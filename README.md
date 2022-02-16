@@ -1,5 +1,5 @@
-Hi, I’m @GainerPhay
-I'm interested in developing mathematical models for electrochemical systems.
+Hi, I’m @GainerPhay  
+I'm interested in developing mathematical models for electrochemical systems.  
 Primarily aiming to use COMSOL and Python for models.
 
 <!---
